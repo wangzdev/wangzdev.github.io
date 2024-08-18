@@ -6,20 +6,7 @@ layout: default
 title: Home
 permalink: /
 ---
-# This is a site for some mini blogs ,to sort thouths or share or update! {#hello-jekyll}
+# Hi,I am WANG Zhen,a software engineer and mini blogger ,you can guess why based on you are here now
+# I am interested in computer science and engineering , specially--here are some buzz words--
+# machine learnign ,or in fancier way ,deep learing ,operating system ,programming language paradigm and design ,network and system security,also I want to write some travel logs if time allowed
 
-{% for post in site.posts %}
-<h2>{{post.title}}</h2>
-<h3>{{post.categories}}</h3>
-{% endfor %}
-
-{% assign names = "Billy, Bob, Joel" | split: ', ' %}
-<ul>
-    {% for name in names %}
-    <li>{{ name }}</li>
-    {% endfor %}
-</ul>
-
-
-check out other pages
-- [About](/about/)
