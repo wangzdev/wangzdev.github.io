@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lange="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ page.title }} - {{ site.title }}</title>
+    </head>
+    <body>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>Home</a></li>
+                <li><a href="/cs" {% if page.title == "Cs" %}class="active-page"{% endif %}>CS&SE</a></li>
+                <li><a href="/travel-log" {% if page.title == "TravelLog" %}class="active-page"{% endif %}>Travel Log</a></li>
+                <li><a href="/other" {% if page.title == "Other" %}class="active-page"{% endif %}>Other</a></li>
+                <li><a href="/bio" {% if page.title == "Bio" %}class="active-page"{% endif %}>Bio</a></li>
+                <li><a href="/100-list" {% if page.title == "100 list" %}class="active-page"{% endif %}>100 list</a></li>
+            </ul>
+        </nav>
+        <main class="page-content">
+            {{ content }}
+        </main>
+        <footer>
+
+            --a life worth celebrating !
+        </footer>
+    </body>
+
+</html>
+
