@@ -4,9 +4,10 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ page.title }} - {{ site.title }}</title>
+        <link rel="stylesheet" href="/_assets/default.css">
     </head>
     <body>
-        <nav>
+        <nav class='navigation'>
             <ul class="nav-links">
                 <li><a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>Home</a></li>
                 <li><a href="/cs" {% if page.title == "Cs" %}class="active-page"{% endif %}>CS&SE</a></li>
