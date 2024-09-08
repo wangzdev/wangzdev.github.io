@@ -4,4 +4,4 @@ title: TravelLog
 permalink: /travel-log/
 ---
 
-# some tour logs
+some tour logs

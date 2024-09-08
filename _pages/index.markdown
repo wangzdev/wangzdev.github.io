@@ -6,7 +6,20 @@ layout: default
 title: Home
 permalink: /
 ---
-# Hi,I am WANG Zhen,a software engineer and mini blogger ,you can guess why based on you are here now
-# I am interested in computer science and engineering , specially--here are some buzz words--
-# machine learnign ,or in fancier way ,deep learing ,operating system ,programming language paradigm and design ,network and system security,also I want to write some travel logs if time allowed
+<p style="font-size:20px;">
+  Hi, I am Wang Zhen ,welcome to my personal website !<br><br>
+I am a software engineer based in China and always passionate about building things and the theoritical part of computer science.<br><br>
+Currently, things I am interested in include :<br><br>
+<span style="font-size:18px;">
+operating system, web&system security ,programming language <br><br>
+machine learning ,training and tuning of deep neural network and multi modality model<br><br>
+distributd computing and storage<br><br>
+</span>
+-----<br>
+Part of the reason that I want to start this personal site is that I want to share some thoughts<br><br>
+in what I am doing now ,and another reason is that I want to improve my writing skills ,haha ,yes,<br><br>
+writing skills,as in these days, I find writing matters ,expressing somethings in a clear and concise way is <br><br>
+is critical ,especially in the STEM field, and after these years of learning English , sadly , I findt it is <br><br>
+still struggling to write something seriously,so I am motivated to do this now.<br><br>
 
+</p>

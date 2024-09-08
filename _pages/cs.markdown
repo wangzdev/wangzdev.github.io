@@ -4,7 +4,7 @@ title: CS&SE
 permalink: /cs/
 ---
 
-# posts about computer science and software engineering
+posts about computer science and software engineering
 
 <ul>
   {% for post in site.posts %}
