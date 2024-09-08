@@ -10,7 +10,7 @@ permalink: /
   Hi, I am Wang Zhen ,welcome to my personal website !<br><br>
 I am a software engineer based in China and always passionate about building things and the theoritical part of computer science.<br><br>
 Currently, things I am interested in include :<br><br>
-<span style="font-size:18px;">
+<span style="font-size:18px;color:gray;">
 operating system, web&system security ,programming language <br><br>
 machine learning ,training and tuning of deep neural network and multi modality model<br><br>
 distributd computing and storage<br><br>
